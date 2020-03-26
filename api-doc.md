@@ -108,7 +108,7 @@
   title: string,
   content: string,
   breif: string,
-  tags: Arrat{id}
+  tags: Array{id}
 }
 ```
 返回：
